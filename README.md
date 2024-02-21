@@ -1,3 +1,9 @@
+чтобы запустить:
+"docker compose up" находясь в корневой папке
+"npm run dev" находясь в app/static для запуска фронта
+
+приложение для создания диаграм с дальнейшей возможностью взаимодействия с ботами (функция пока не добавлена)
+
 ## Compose sample application
 
 ### Use with Docker Development Environments
